@@ -11,6 +11,7 @@
     <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
     ·
     <a href="https://github.com/MrManHD?tab=repositories">Repositories</a>
+  <br />
     <div align="center">
   <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
   <img align="center" alt="Java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
@@ -35,17 +36,6 @@
 ![httpmarco](https://github-readme-stats.vercel.app/api?username=httpmarco&show_icons=true&locale=en)
 
 <br />
-
-## Languages and Tools:
-
-<img align="left" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
-<img align="left" alt="Java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18852341021548218200-512.png" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/128/3161/3161158.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" />
-<img align="left" alt="Redis" width="26px" src="https://www.creoline.de/assets/img/tech/redis.svg" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
