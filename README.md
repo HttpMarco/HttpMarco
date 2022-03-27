@@ -10,7 +10,7 @@
     ·
     <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
     ·
-    <a href="https://github.com/MrManHD?tab=repositories">Repositories</a>
+    <a href="https://github.com/HttpMarco?tab=repositories">Repositories</a>
   <br />
     <div align="center">
   <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
@@ -46,4 +46,4 @@
 [teamspeak-url]: ts3server://bytemc.de
 
 [spotify-shield]: https://img.shields.io/badge/-Spotify-black.svg?style=for-the-badge&logo=spotify&colorB=555
-[spotify-url]: https://open.spotify.com/user/nikigalaxylp
+[spotify-url]: https://open.spotify.com/user/coeqj1w4x4wf1xfekndxd57pt
