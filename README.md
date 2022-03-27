@@ -6,11 +6,7 @@
   <p align="center">
     Developer × Gründer von HubGame.net & TryHub.de
     <br />
-    <a href="https://twitter.com/MrManHD">Twitter</a>
-    ·
-    <a href="https://open.spotify.com/user/nikigalaxylp">Spotify</a>
-    ·
-    <a href="https://steamcommunity.com/profiles/76561198827490027">Steam</a>
+    <a href="https://twitter.com/Http_polo">Twitter</a>
     ·
     <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
     ·
