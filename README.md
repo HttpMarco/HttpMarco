@@ -22,11 +22,7 @@
   <img align="center" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
   <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   </div>
-  </p>
-  
-
- 
-  
+  </p> 
 </p>
 
 <br />
@@ -35,11 +31,6 @@
 
 ![httpmarco](https://github-readme-stats.vercel.app/api?username=httpmarco&show_icons=true&locale=en)
 
-<br />
-
-<br />
-<br />
-<br />
 <br />
 
  [![Discord][discord-shield]][discord-url]
