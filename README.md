@@ -20,7 +20,7 @@
   <img align="center" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" />
   <img align="center" alt="Redis" width="26px" src="https://www.creoline.de/assets/img/tech/redis.svg" />
   <img align="center" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-  <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="center" alt="GitHub" width="26px" src="https://pngset.com/images/github-icon-white-github-icon-black-background-symbol-logo-trademark-steering-wheel-transparent-png-842663.png" />
   </div>
   </p> 
 </p>
