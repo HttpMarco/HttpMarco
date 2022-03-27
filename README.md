@@ -11,7 +11,7 @@
     <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
     ·
     <a href="https://github.com/MrManHD?tab=repositories">Repositories</a>
-
+    <div>
   <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
   <img align="center" alt="Java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
   <img align="center" alt="Kotlin" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18852341021548218200-512.png" />
@@ -20,7 +20,7 @@
   <img align="center" alt="Redis" width="26px" src="https://www.creoline.de/assets/img/tech/redis.svg" />
   <img align="center" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
   <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+  </div>
   </p>
   
 
