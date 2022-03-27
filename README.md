@@ -1,10 +1,10 @@
 <br />
 <p align="center">
 
-  <h3 align="center">MrManHD / Niklas</h3>
+  <h3 align="center">HttpMarco</h3>
 
   <p align="center">
-    Developer × Gründer von HubGame.net & TryHub.de
+    A Developer german developer and founder of @PoloCloud
     <br />
     <a href="https://twitter.com/Http_polo">Twitter</a>
     ·
