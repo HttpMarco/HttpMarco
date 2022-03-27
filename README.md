@@ -42,14 +42,14 @@
  [![Discord][discord-shield]][discord-url]
  [![Teamspeak][teamspeak-shield]][teamspeak-url]
  [![spotify][spotify-shield]][spotify-url]
- [![Twitter Follow](https://img.shields.io/twitter/follow/MrManHD?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MrManHD)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/HttpMarco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/HttpMarco)
  
  
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
 [discord-url]: https://discord.tryhub.de
 
 [teamspeak-shield]: https://img.shields.io/badge/-Teamspeak-black.svg?style=for-the-badge&logo=teamspeak&colorB=555
-[teamspeak-url]: ts3server://ts.tryhub.eu
+[teamspeak-url]: ts3server://bytemc.de
 
 [spotify-shield]: https://img.shields.io/badge/-Spotify-black.svg?style=for-the-badge&logo=spotify&colorB=555
 [spotify-url]: https://open.spotify.com/user/nikigalaxylp
