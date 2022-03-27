@@ -42,7 +42,7 @@
  [![Discord][discord-shield]][discord-url]
  [![Teamspeak][teamspeak-shield]][teamspeak-url]
  [![spotify][spotify-shield]][spotify-url]
- [![Twitter Follow](https://img.shields.io/twitter/follow/HttpMarco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/HttpMarco)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/Http_polo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Http_polo)
  
  
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
