@@ -4,7 +4,7 @@
   <h3 align="center">HttpMarco</h3>
 
   <p align="center">
-    A Developer german developer and founder of @PoloCloud
+    A german developer and founder of @PoloCloud
     <br />
     <a href="https://twitter.com/Http_polo">Twitter</a>
     ·
