@@ -27,9 +27,8 @@
 <img align="left" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
 <img align="left" alt="Java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18852341021548218200-512.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/128/3161/3161158.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" />
-<img align="left" alt="ArangoDB" width="26px" src="https://www.arangodb.com/wp-content/uploads/2020/02/ArangoDB-logo-sq.png" />
 <img align="left" alt="Redis" width="26px" src="https://www.creoline.de/assets/img/tech/redis.svg" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -46,7 +45,7 @@
  
  
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
-[discord-url]: https://discord.tryhub.de
+[discord-url]: https://discord.gg/Gv4B77xqCT
 
 [teamspeak-shield]: https://img.shields.io/badge/-Teamspeak-black.svg?style=for-the-badge&logo=teamspeak&colorB=555
 [teamspeak-url]: ts3server://bytemc.de
