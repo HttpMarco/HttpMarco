@@ -29,8 +29,6 @@
 
 ## Statistics
 
-![httpmarco](https://github-readme-stats.vercel.app/api?username=httpmarco&show_icons=true&locale=en)
-
 <br />
 
  [![Discord][discord-shield]][discord-url]
