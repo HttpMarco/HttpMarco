@@ -29,6 +29,7 @@
 
 <br />
 
+<div align="center">
  [![Discord][discord-shield]][discord-url]
  [![Teamspeak][teamspeak-shield]][teamspeak-url]
  [![spotify][spotify-shield]][spotify-url]
@@ -43,3 +44,4 @@
 
 [spotify-shield]: https://img.shields.io/badge/-Spotify-black.svg?style=for-the-badge&logo=spotify&colorB=555
 [spotify-url]: https://open.spotify.com/user/coeqj1w4x4wf1xfekndxd57pt
+</div>
