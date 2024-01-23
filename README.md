@@ -7,11 +7,8 @@
 
 
   <p align="center">
-    A german developer and founder of @PoloCloud
+    A german developer
     <br />
-  <a href="https://twitter.com/Http_polo">Twitter</a>
-    <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
-    <a href="https://github.com/HttpMarco?tab=repositories">Repositories</a>
   <br />
     <div align="center">
   <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
