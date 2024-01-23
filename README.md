@@ -25,18 +25,5 @@
   </div>
   </p> 
 </p>
-
- [![Discord][discord-shield]][discord-url]
- [![Teamspeak][teamspeak-shield]][teamspeak-url]
- [![spotify][spotify-shield]][spotify-url]
- [![Twitter Follow](https://img.shields.io/twitter/follow/Http_polo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Http_polo)
- 
- 
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
 [discord-url]: https://discord.gg/Gv4B77xqCT
-
-[teamspeak-shield]: https://img.shields.io/badge/-Teamspeak-black.svg?style=for-the-badge&logo=teamspeak&colorB=555
-[teamspeak-url]: ts3server://bytemc.de
-
-[spotify-shield]: https://img.shields.io/badge/-Spotify-black.svg?style=for-the-badge&logo=spotify&colorB=555
-[spotify-url]: https://open.spotify.com/user/coeqj1w4x4wf1xfekndxd57pt
