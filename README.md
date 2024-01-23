@@ -25,5 +25,3 @@
   </div>
   </p> 
 </p>
-[discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
-[discord-url]: https://discord.gg/Gv4B77xqCT
